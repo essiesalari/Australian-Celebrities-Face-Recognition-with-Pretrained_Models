@@ -1,4 +1,4 @@
-# Australian-Celebrities-Face-Recognition-with-Transfer-Learning
+# Australian Celebrities Face Recognition-VGG16
 
 ## Project Description
 
