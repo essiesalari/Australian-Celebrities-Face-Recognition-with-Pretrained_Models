@@ -19,7 +19,7 @@ For each celebrity, we have:
 
 - 20 training images
 - 10 validation images
-- 10 testing images
+- 5 testing images
 
 This distribution ensures that our model has enough data to learn from and yet can be validated and tested effectively.
 
