@@ -1,4 +1,4 @@
-# Australian Celebrities Face Recognition-Petrained Models
+# Australian Celebrities Face Recognition_Pre-trained Models
 
 ## Project Description
 
