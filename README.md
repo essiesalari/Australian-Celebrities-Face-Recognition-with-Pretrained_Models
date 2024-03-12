@@ -1,4 +1,4 @@
-# Australian Celebrities Face Recognition-VGG16
+# Australian Celebrities Face Recognition-Petrained Models
 
 ## Project Description
 
